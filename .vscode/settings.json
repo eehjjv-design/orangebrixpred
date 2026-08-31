@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/workspaces/orangebrixpred/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": [
+    "/workspaces/orangebrixpred/.venv/lib/python3.11/site-packages"
+  ]
+}
